@@ -40,7 +40,7 @@ This website is designed to help users create, manage, and explore digital busin
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/business-card-manager.git
+git clone https://github.com/nirnir123/business-card-manager
 cd business-card-manager
 npm install
 npm run dev
